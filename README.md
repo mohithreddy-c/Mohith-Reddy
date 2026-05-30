@@ -37,7 +37,7 @@ BTech CSE Student | Machine Learning Enthusiast | DSA Learner | Problem Solver
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ### 🌐 Web Development
@@ -76,12 +76,6 @@ BTech CSE Student | Machine Learning Enthusiast | DSA Learner | Problem Solver
 - Attendance and record management
 - User-friendly interface for students and administrators
 
-### 🤖 Intelligent Recognition of Unordered Targets for Robots
-
-- Reinforcement Learning based object recognition
-- Object classification and target detection
-- Machine Learning and Computer Vision integration
-- Research-oriented capstone project
 
 ---
 
