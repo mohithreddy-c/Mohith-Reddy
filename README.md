@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohith Reddy</h1>
 
 <h3 align="center">
-BTech CSE Student | Machine Learning Enthusiast | Problem Solver
+BTech CSE Student | Machine Learning Enthusiast | DSA Learner | Problem Solver
 </h3>
 
 <p align="center">
-<a href="(https://www.linkedin.com/in/chinthakunta-mohithreddy/)">
+<a href="https://www.linkedin.com/in/chinthakunta-mohithreddy/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge"/>
 </a>
 
@@ -13,7 +13,7 @@ BTech CSE Student | Machine Learning Enthusiast | Problem Solver
 <img src="https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge"/>
 </a>
 
-<a href="(https://github.com/mohithreddy-c)">
+<a href="https://github.com/mohithreddy-c">
 <img src="https://img.shields.io/badge/GITHUB-PROFILE-black?style=for-the-badge"/>
 </a>
 </p>
@@ -23,9 +23,10 @@ BTech CSE Student | Machine Learning Enthusiast | Problem Solver
 ## 🚀 About Me
 
 - 🎓 BTech Computer Science Student
-- 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently learning Machine Learning and Full Stack Development
-- 🤖 Interested in AI, ML, and Scalable Applications
+- 💻 Passionate about Data Structures & Algorithms
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Full Stack Development and System Design
+- 🚀 Building ML-based healthcare and software solutions
 - ⚡ Love solving coding problems and exploring new technologies
 - 📫 Reach me at: chinthakuntamohithreddy@gmail.com
 
@@ -36,7 +37,7 @@ BTech CSE Student | Machine Learning Enthusiast | Problem Solver
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,c++,python,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
 ### 🌐 Web Development
@@ -54,39 +55,48 @@ BTech CSE Student | Machine Learning Enthusiast | Problem Solver
 ### 🤖 Libraries & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
+### 🥗 NutriSLM
+
+- AI-powered nutrition assistant
+- Personalized diet recommendations
+- Interactive chatbot experience
+- Built using Machine Learning and AI technologies
+
+### 🏠 Hostel Management System
+
+- Digital hostel administration platform
+- Student registration and room allocation
+- Attendance and record management
+- User-friendly interface for students and administrators
+
 ### 🤖 Intelligent Recognition of Unordered Targets for Robots
 
 - Reinforcement Learning based object recognition
 - Object classification and target detection
 - Machine Learning and Computer Vision integration
-
-### ❤️ Heart Failure Prediction using Machine Learning
-
-- Comparative analysis of ML algorithms
-- Data preprocessing and model evaluation
-- Healthcare prediction system
+- Research-oriented capstone project
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohithreddy-c&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithreddy-c&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithreddy-c&theme=tokyonight"/>
 </p>
 
 ---
@@ -95,16 +105,16 @@ BTech CSE Student | Machine Learning Enthusiast | Problem Solver
 
 <p align="center">
 
-<a href="(https://leetcode.com/u/Mohith_Reddy_C/)">
+<a href="https://leetcode.com/u/Mohith_Reddy_C/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="(https://www.geeksforgeeks.org/profile/chinthakuntap72y)">
+<a href="https://www.geeksforgeeks.org/profile/chinthakuntap72y">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://github.com/mohithreddy-c">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -112,5 +122,5 @@ BTech CSE Student | Machine Learning Enthusiast | Problem Solver
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mohithreddy-c&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
